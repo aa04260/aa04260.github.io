@@ -1,0 +1,43 @@
+Technology icons
+Downloaded 2026-09-30. Logos identify the technologies used; ownership remains with their respective owners.
+
+Existing java, spring, apachekafka, postgresql, redis, mysql, docker, githubactions, amazonwebservices: Devicon (MIT; LICENSE.txt).
+Prometheus, Grafana, Polygon: Devicon (MIT).
+JWT, Gemini: Simple Icons (CC0; LICENSE-simple-icons.txt). Solid fills set to #9d328b and #4285f4 for legibility.
+Spring product icons: spring.io official project artwork. Spring Cloud is used for Spring Cloud Gateway.
+Web3j: official LFDT-web3j repository artwork (Apache-2.0; LICENSE-web3j.txt).
+Docker Compose uses the Docker product mark.
+
+springboot.svg
+https://spring.io/img/projects/spring-boot.svg
+
+springsecurity.svg
+https://spring.io/img/projects/spring-security.svg
+
+springcloud.svg
+https://spring.io/img/projects/spring-cloud.svg
+
+
+springai.svg
+https://spring.io/img/projects/spring-ai.svg
+
+prometheus.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg
+
+grafana.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg
+
+polygon.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg
+
+jwt.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg
+
+gemini.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg
+
+web3j.png
+https://raw.githubusercontent.com/LFDT-web3j/web3j/main/logos/web3j-small.png
+
+LICENSE-simple-icons.txt
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/LICENSE.md
